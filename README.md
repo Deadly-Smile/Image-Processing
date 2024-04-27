@@ -1,2 +1,2 @@
 # Image-Processing
-Give a star and let's see what happens
+Give a star and see what happens
